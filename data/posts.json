@@ -1,0 +1,38 @@
+{
+    "5ff65791352f8": {
+        "date": "2020.03.10",
+        "time": "3:00pm",
+        "fullname": "Fancy Brandy",
+        "email": "123@gmail.com",
+        "SSN": "12345678",
+        "booked": false,
+        "id": "5ff65791352f8"
+    },
+    "5ff657edadc51": {
+        "date": "2020.02.23",
+        "time": "5:00pm",
+        "fullname": "Chen Danqing",
+        "email": "123456@gmail.com",
+        "SSN": "12345678",
+        "booked": true,
+        "id": "5ff657edadc51"
+    },
+    "5ff65827bfb8c": {
+        "date": "2020.02.25",
+        "time": "2:00pm",
+        "fullname": "Charlie",
+        "email": "1234@gmail.com",
+        "SSN": "12345678",
+        "booked": true,
+        "id": "5ff65827bfb8c"
+    },
+    "5ff871818a290": {
+        "date": "2020.02.28",
+        "time": "5:00pm",
+        "fullname": "Miao",
+        "email": "miao@elte.hu",
+        "SSN": "123456789",
+        "booked": false,
+        "id": "5ff871818a290"
+    }
+}
